@@ -2,16 +2,7 @@
 
 This repository contains a comprehensive AI learning project spanning weeks 5 through 11 of an intensive AI course. The project progresses from fundamental data analysis to building a complete machine learning system for handwritten digit recognition, incorporating security considerations and best practices.
 
-## 📋 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Weekly Breakdown](#weekly-breakdown)
-- [Project Structure](#project-structure)
-- [Requirements](#requirements)
-- [Installation & Usage](#installation--usage)
-- [Key Learnings](#key-learnings)
-- [Security Considerations](#security-considerations)
-- [Contributing](#contributing)
+---
 
 ## 🎯 Project Overview
 
@@ -24,6 +15,8 @@ This repository documents a 7-week journey in AI development, starting with data
 - ✅ Model evaluation and optimization
 - ✅ Security-aware system design
 - ✅ Error analysis and improvement strategies
+
+---
 
 ## 📅 Weekly Breakdown
 
@@ -123,6 +116,8 @@ This repository documents a 7-week journey in AI development, starting with data
 └── README.md
 ```
 
+---
+
 ## 📋 Requirements
 
 - Python 3.8+
@@ -131,6 +126,8 @@ This repository documents a 7-week journey in AI development, starting with data
 - numpy
 - matplotlib
 - seaborn (optional, for advanced visualizations)
+
+---
 
 ## 🚀 Installation & Usage
 
@@ -157,6 +154,8 @@ This repository documents a 7-week journey in AI development, starting with data
    python 第11周/main.py
    ```
 
+---
+
 ## 🎓 Key Learnings
 
 ### Technical Skills
@@ -177,6 +176,8 @@ This repository documents a 7-week journey in AI development, starting with data
 - Automated model selection systems
 - User input validation and security
 
+---
+
 ## 🔒 Security Considerations
 
 Weeks 9-11 incorporate security awareness training:
@@ -187,19 +188,6 @@ Weeks 9-11 incorporate security awareness training:
 - **System Hardening:** Defense against common attacks
 
 **Important:** All security exercises are conducted in controlled, local environments only. No external systems are targeted.
-
-## 🤝 Contributing
-
-This repository serves as a learning portfolio. While it's primarily for educational purposes, suggestions for improvements are welcome:
-
-1. Fork the repository
-2. Create a feature branch
-3. Make improvements
-4. Submit a pull request
-
-## 📄 License
-
-This project is for educational purposes. Please respect the learning objectives and security guidelines outlined in the course materials.
 
 ---
 
