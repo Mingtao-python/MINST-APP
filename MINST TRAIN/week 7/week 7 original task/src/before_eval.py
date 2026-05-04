@@ -1,0 +1,2 @@
+def b_eval(user_input):
+    return eval(user_input)
